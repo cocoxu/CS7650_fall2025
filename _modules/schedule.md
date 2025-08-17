@@ -15,7 +15,7 @@ Aug 20
   : [Eisenstein 1](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 4](https://web.stanford.edu/~jurafsky/slp3/4.pdf)
 
 Aug 21
-: **[Problem Set 0 due](https://github.com/cocoxu/CS7650_fall2025_projects/blob/master/CS7650_fall2025_PS0.pdf)**
+: **[Problem Set 0 due](https://github.com/cocoxu/CS7650_fall2025/homework/CS7650_fall2025_PS0.pdf)**
 
 Aug 25
 : [Machine Learning Review - logistic regression, perceptron, SVM](https://cocoxu.github.io/CS7650_fall2025/slides/lec2-ml.pdf) 
