@@ -18,7 +18,7 @@ tagline: CS 7650 - Natural Language Processing (Georgia Tech)
 description: 
 author: Wei Xu
 #baseurl: '/just-the-class' # the subpath of your site, e.g. /blog
-baseurl: '/CS4650_spring2025' # the subpath of your site, e.g. /blog
+baseurl: '/CS7650_fall2025' # the subpath of your site, e.g. /blog
 url: 'https://cocoxu.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
