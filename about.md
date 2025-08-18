@@ -64,7 +64,7 @@ We plan to assign four programming assignments (including a programming backgrou
 
 The written assignments will mostly be mathematical/computational.  You can scan and upload your solution to Gradescope. Please write answers clearly, since we won't be able to provide credit for answers that we are not legible.
 
-### Midterm Exam - 18%
+### Midterm Exam - 20%
 
 The midterm will be similar in format to the written assignments (problem sets). It will be in-class and close-book after the spring break (there will be no make-up exam). 
 
@@ -73,7 +73,7 @@ We will set the exact date for midterm exam one month before the exam based on t
 Students are expected to attend every class during the semester, unless they have obtained official approval for absense from the Office of the Dean of Students.  
 
 
-### Final Project - 32%
+### Final Project - 30%
 
 The final project is an open-ended assignment, with the goal of gaining experience applying the techniques presented in class to real-world datasets. Students should work in groups of 2-4. It is a good idea to discuss your planned project with the instructor to get feedback. The final project report should be 4-5 pages. The report should describe the problem you are solving, what data is being used, the proposed technique you are applying in addition to what baseline is used to compare against.
 
