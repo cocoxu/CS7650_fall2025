@@ -93,10 +93,9 @@ Students will also give a short presentation on recent research in class.
 
 ### Participation - 5%
 
-This is an on campus class. Students are expected to attend the lectures in person. Students will receive credits for engaging in discussion in class, and answering questions related to the homework on Piazza, acting politely and respectfully towards the teaching staff and other students in the class. 
+This is an on campus class. Students are expected to attend the lectures in person. 
 
-Students are expected to attend every class during the semester, unless they have obtained official approval for absense from the Office of the Dean of Students.  
-
+Students will receive credit for asking and answering thoughtful questions related to the course content on Piazza, engaging in discussion in class and generally for participating in the class. There are many ways to show participation. Asking a question that is marked as a "good question" by an instructor on Piazza, or having an answer that is marked as an "endorsed answer" is one example. Asking insightful questions, and engaging in discussion during class is another example. Please be polite and respectful towards TAs and other students in the class.
 
 ## Academic Integrity
 
