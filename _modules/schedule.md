@@ -29,7 +29,7 @@ Aug 29
 : **[Project 0 due](https://colab.research.google.com/drive/1gsvmp2zygSz4dWeZAzCY9FIMxLB94fLO?usp=sharing)**
 
 Sep 3
-: [Neural Networks - Feedforward, optimization](https://cocoxu.github.io/CS7650_fall2025/slides/lec4-nn.pdf), [Course Project](https://cocoxu.github.io/CS7650_fall2025/slides/lec0-project.pdf)
+: [Neural Networks - Feedforward, optimization](https://cocoxu.github.io/CS7650_fall2025/slides/lec4-nn.pdf)
   : [Eisenstein 2.6, 3.1-3.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf), [Goldberg 1-4](https://arxiv.org/pdf/1510.00726.pdf), [J.G. Makin - Backpropagation](https://cocoxu.github.io/CS7650_fall2025/slides/backprop.pdf)
 
 Sep 5
@@ -39,12 +39,16 @@ Sep 8
 : [Word Embeddings](https://cocoxu.github.io/CS7650_fall2025/slides/lec5-word2vec.pdf)
   : [Eisenstein 3.3.4, 14.5, 14.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 6](https://web.stanford.edu/~jurafsky/slp3/6.pdf), [Goldberg 5](https://arxiv.org/pdf/1510.00726.pdf)
 
+Sep 10
+: [Sequence Models - HMM, Viterbi](https://cocoxu.github.io/CS7650_fall2025/slides/lec6-seq1.pdf) 
+  : [Eisenstein 7.0-7.4](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 17](https://web.stanford.edu/~jurafsky/slp3/17.pdf), [J+M A](https://web.stanford.edu/~jurafsky/slp3/A.pdf)
 
 Sep 19
 : **[Project 1 due](https://colab.research.google.com/drive/1H2kkoMC4F9tnIg4q3OKkUh2GmkT1DXAd?usp=sharing)**
 
-: [Sequence Models - HMM, Viterbi](https://cocoxu.github.io/CS7650_fall2025/slides/lec6-seq1.pdf) 
-  : [Eisenstein 7.0-7.4](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 17](https://web.stanford.edu/~jurafsky/slp3/17.pdf), [J+M A](https://web.stanford.edu/~jurafsky/slp3/A.pdf)
+Oct 9
+: **[Course Project Proposal Due](https://cocoxu.github.io/CS7650_fall2025/slides/lec0-project.pdf)**
+
 
 : [Conditional Random Fields](https://cocoxu.github.io/CS7650_fall2025/slides/lec7-seq2.pdf)
   : [Eisenstein 7.5, 8.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
