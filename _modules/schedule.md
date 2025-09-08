@@ -19,25 +19,25 @@ Aug 21
 
 Aug 25
 : [Machine Learning Review - logistic regression, perceptron, SVM](https://cocoxu.github.io/CS7650_fall2025/slides/lec2-ml.pdf) 
-  : [Eisenstein 2.0-2.5, 4.1, 4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 5](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
+  : [Eisenstein 2.0-2.5, 4.1, 4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 4](https://web.stanford.edu/~jurafsky/slp3/4.pdf)
 
 Aug 27
 : [Machine Learning Review - mutliclass classification](https://cocoxu.github.io/CS7650_fall2025/slides/lec3-mcc.pdf)
-  : [Eisenstein 2.0-2.5, 4.1, 4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 5](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
+  : [Eisenstein 2.0-2.5, 4.1, 4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 4](https://web.stanford.edu/~jurafsky/slp3/4.pdf)
 
 Aug 29
 : **[Project 0 due](https://colab.research.google.com/drive/1gsvmp2zygSz4dWeZAzCY9FIMxLB94fLO?usp=sharing)**
 
 Sep 3
 : [Neural Networks - Feedforward, optimization](https://cocoxu.github.io/CS7650_fall2025/slides/lec4-nn.pdf)
-  : [Eisenstein 2.6, 3.1-3.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf), [Goldberg 1-4](https://arxiv.org/pdf/1510.00726.pdf), [J.G. Makin - Backpropagation](https://cocoxu.github.io/CS7650_fall2025/slides/backprop.pdf)
+  : [Eisenstein 2.6, 3.1-3.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 6](https://web.stanford.edu/~jurafsky/slp3/6.pdf), [Goldberg 1-4](https://arxiv.org/pdf/1510.00726.pdf), [J.G. Makin - Backpropagation](https://cocoxu.github.io/CS7650_fall2025/slides/backprop.pdf)
 
 Sep 5
 : **[Problem Set 1 due](https://www.gradescope.com/courses/1086056)**
 
 Sep 8
 : [Word Embeddings](https://cocoxu.github.io/CS7650_fall2025/slides/lec5-word2vec.pdf)
-  : [Eisenstein 3.3.4, 14.5, 14.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 6](https://web.stanford.edu/~jurafsky/slp3/6.pdf), [Goldberg 5](https://arxiv.org/pdf/1510.00726.pdf)
+  : [Eisenstein 3.3.4, 14.5, 14.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 5](https://web.stanford.edu/~jurafsky/slp3/5.pdf), [Goldberg 5](https://arxiv.org/pdf/1510.00726.pdf)
 
 Sep 10
 : [Sequence Models - HMM, Viterbi](https://cocoxu.github.io/CS7650_fall2025/slides/lec6-seq1.pdf) 
