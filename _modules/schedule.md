@@ -58,8 +58,14 @@ Sep 22
 : [Encoder-Decoder + MT](https://cocoxu.github.io/CS7650_fall2025/slides/lec10-seq2seq.pdf)
   : [Eisenstein 18.3 - 18.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
+Oct 3
+: **[Project 2 due](https://colab.research.google.com/drive/1jjdjCKZBglPHeO_FsJ-rjryEcRTzwuS3?usp=sharing)**
+
 Oct 9
 : **[Course Project Proposal Due](https://cocoxu.github.io/CS7650_fall2025/slides/lec0-project.pdf)**
+
+
+
 
 
 : [Attention+ Tokenization](https://cocoxu.github.io/CS7650_fall2025/slides/lec11-nmt-tokenization.pdf)
@@ -68,16 +74,16 @@ Oct 9
 : [Transformer](https://cocoxu.github.io/CS7650_fall2025/slides/lec12-transformer.pdf)
   : [J+M 9](https://web.stanford.edu/~jurafsky/slp3/9.pdf), [Vaswani+17 Transformers](https://arxiv.org/pdf/1706.03762.pdf), [Alammar's blog post](http://jalammar.github.io/illustrated-transformer/), [Rush's tutorial](https://nlp.seas.harvard.edu/annotated-transformer/) 
 
-: [Pretrained Language Models (part 1)](https://cocoxu.github.io/CS4650_spring2025/slides/lec13-pt1.pdf), [Midterm Review](https://cocoxu.github.io/CS4650_spring2025/slides/lec00-midterm-review.pdf)
+: [Pretrained Language Models (part 1)](https://cocoxu.github.io/CS7650_fall2025/slides/lec13-pt1.pdf), [Midterm Review](https://cocoxu.github.io/CS7650_fall2025/slides/lec00-midterm-review.pdf)
   : [J+M 11](https://web.stanford.edu/~jurafsky/slp3/11.pdf), [ELMo](https://www.aclweb.org/anthology/N18-1202.pdf) [BERT](https://www.aclweb.org/anthology/N19-1423.pdf)
 
-: [Pretrained Language Models (part 2) + Ethics](https://cocoxu.github.io/CS4650_spring2025/slides/lec14-pt2.pdf)
+: [Pretrained Language Models (part 2) + Ethics](https://cocoxu.github.io/CS7650_fall2025/slides/lec14-pt2.pdf)
   : [J+M 10](https://web.stanford.edu/~jurafsky/slp3/10.pdf), [BART](https://arxiv.org/pdf/1910.13461.pdf), [GPT-3](https://arxiv.org/pdf/2005.14165.pdf) 
 
-: [Post-training of Language Models (part 3)](https://cocoxu.github.io/CS4650_spring2025/slides/lec15-pt3.pdf)
+: [Post-training of Language Models (part 3)](https://cocoxu.github.io/CS7650_fall2025/slides/lec15-pt3.pdf)
   : [InstructGPT](https://arxiv.org/pdf/2203.02155.pdf) 
 
-: [Open-source Language Models (part 4)](https://cocoxu.github.io/CS4650_spring2025/slides/lec16-pt4.pdf)
+: [Open-source Language Models (part 4)](https://cocoxu.github.io/CS7650_fall2025/slides/lec16-pt4.pdf)
   : [Llama 3](https://arxiv.org/pdf/2407.21783.pdf) 
   
 
