@@ -55,8 +55,11 @@ Sep 19
 : **[Project 1 due](https://colab.research.google.com/drive/1H2kkoMC4F9tnIg4q3OKkUh2GmkT1DXAd?usp=sharing)**
 
 Sep 22
-: [Encoder-Decoder + MT](https://cocoxu.github.io/CS7650_fall2025/slides/lec10-seq2seq.pdf)
+: [Encoder-Decoder + Attention](https://cocoxu.github.io/CS7650_fall2025/slides/lec9-seq2seq-attention.pdf)
   : [Eisenstein 18.3 - 18.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+
+Sep 24
+: ML Seminar at 12-1pm (optional; see Pizza annoucement)
 
 Oct 3
 : **[Project 2 due](https://colab.research.google.com/drive/1jjdjCKZBglPHeO_FsJ-rjryEcRTzwuS3?usp=sharing)**
@@ -64,15 +67,12 @@ Oct 3
 Oct 9
 : **[Course Project Proposal Due](https://cocoxu.github.io/CS7650_fall2025/slides/lec0-project.pdf)**
 
-
-
-
-
-: [Attention+ Tokenization](https://cocoxu.github.io/CS7650_fall2025/slides/lec11-nmt-tokenization.pdf)
-  : [Wu+16 Google NMT](https://arxiv.org/abs/1609.08144), [Holtzman+19 Degeneration](https://arxiv.org/pdf/1904.09751.pdf)
-
+TBA
 : [Transformer](https://cocoxu.github.io/CS7650_fall2025/slides/lec12-transformer.pdf)
   : [J+M 9](https://web.stanford.edu/~jurafsky/slp3/9.pdf), [Vaswani+17 Transformers](https://arxiv.org/pdf/1706.03762.pdf), [Alammar's blog post](http://jalammar.github.io/illustrated-transformer/), [Rush's tutorial](https://nlp.seas.harvard.edu/annotated-transformer/) 
+
+: [Decoding+Tokenization](https://cocoxu.github.io/CS7650_fall2025/slides/lec11-nmt-tokenization.pdf)
+  : [Wu+16 Google NMT](https://arxiv.org/abs/1609.08144), [Holtzman+19 Degeneration](https://arxiv.org/pdf/1904.09751.pdf)
 
 : [Pretrained Language Models (part 1)](https://cocoxu.github.io/CS7650_fall2025/slides/lec13-pt1.pdf), [Midterm Review](https://cocoxu.github.io/CS7650_fall2025/slides/lec00-midterm-review.pdf)
   : [J+M 11](https://web.stanford.edu/~jurafsky/slp3/11.pdf), [ELMo](https://www.aclweb.org/anthology/N18-1202.pdf) [BERT](https://www.aclweb.org/anthology/N19-1423.pdf)
