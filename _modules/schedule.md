@@ -68,7 +68,7 @@ Sep 29
 Oct 3
 : **[Project 2 due](https://colab.research.google.com/drive/1jjdjCKZBglPHeO_FsJ-rjryEcRTzwuS3?usp=sharing)**
 
-Oct 9
+Oct 10
 : **[Course Project Proposal Due](https://cocoxu.github.io/CS7650_fall2025/slides/lec0-project.pdf)**
 
 TBA
