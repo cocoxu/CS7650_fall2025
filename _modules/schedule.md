@@ -65,6 +65,11 @@ Sep 29
 : [Transformer](https://cocoxu.github.io/CS7650_fall2025/slides/lec10-transformer.pdf)
   : [J+M 8](https://web.stanford.edu/~jurafsky/slp3/8.pdf), [Vaswani+17 Transformers](https://arxiv.org/pdf/1706.03762.pdf), [Alammar's blog post](http://jalammar.github.io/illustrated-transformer/), [Rush's tutorial](https://nlp.seas.harvard.edu/annotated-transformer/) 
 
+Oct 1
+: [Convolutional Neural Networks](https://cocoxu.github.io/CS7650_fall2025/slides/lec11a-cnn.pdf), [MT Evaluation](https://cocoxu.github.io/CS7650_fall2025/slides/lec11b-mteval.pdf)
+  : [Eisenstein 3.4, 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [Goldberg 9](https://arxiv.org/pdf/1510.00726.pdf)
+
+
 Oct 3
 : **[Project 2 due](https://colab.research.google.com/drive/1jjdjCKZBglPHeO_FsJ-rjryEcRTzwuS3?usp=sharing)**
 
@@ -72,9 +77,6 @@ Oct 10
 : **[Course Project Proposal Due](https://cocoxu.github.io/CS7650_fall2025/slides/lec0-project.pdf)**
 
 TBA
-: [MT Evaluation, Decoding, Tokenization](https://cocoxu.github.io/CS7650_fall2025/slides/lec11-nmt-tokenization.pdf)
-  : [Holtzman+19 Degeneration](https://arxiv.org/pdf/1904.09751.pdf)
-
 : [Pretrained Language Models (part 1)](https://cocoxu.github.io/CS7650_fall2025/slides/lec13-pt1.pdf), [Midterm Review](https://cocoxu.github.io/CS7650_fall2025/slides/lec00-midterm-review.pdf)
   : [J+M 11](https://web.stanford.edu/~jurafsky/slp3/11.pdf), [ELMo](https://www.aclweb.org/anthology/N18-1202.pdf) [BERT](https://www.aclweb.org/anthology/N19-1423.pdf)
 
