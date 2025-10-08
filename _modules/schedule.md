@@ -69,21 +69,24 @@ Oct 1
 : [Convolutional Neural Networks](https://cocoxu.github.io/CS7650_fall2025/slides/lec11a-cnn.pdf), [MT Evaluation](https://cocoxu.github.io/CS7650_fall2025/slides/lec11b-mteval.pdf)
   : [Eisenstein 3.4, 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [Goldberg 9](https://arxiv.org/pdf/1510.00726.pdf)
 
-
 Oct 3
 : **[Project 2 due](https://colab.research.google.com/drive/1jjdjCKZBglPHeO_FsJ-rjryEcRTzwuS3?usp=sharing)**
+
+Oct 8
+: [Pretrained Language Models (part 1)](https://cocoxu.github.io/CS7650_fall2025/slides/lec13-pt1.pdf)
+  : [J+M 10](https://web.stanford.edu/~jurafsky/slp3/10.pdf), [ELMo](https://www.aclweb.org/anthology/N18-1202.pdf) [BERT](https://www.aclweb.org/anthology/N19-1423.pdf)
 
 Oct 10
 : **[Course Project Proposal Due](https://cocoxu.github.io/CS7650_fall2025/slides/lec0-project.pdf)**
 
-TBA
-: [Pretrained Language Models (part 1)](https://cocoxu.github.io/CS7650_fall2025/slides/lec13-pt1.pdf), [Midterm Review](https://cocoxu.github.io/CS7650_fall2025/slides/lec00-midterm-review.pdf)
-  : [J+M 11](https://web.stanford.edu/~jurafsky/slp3/11.pdf), [ELMo](https://www.aclweb.org/anthology/N18-1202.pdf) [BERT](https://www.aclweb.org/anthology/N19-1423.pdf)
+Oct 15
+: **[Problem Set 2 due](https://www.gradescope.com/courses/1086056)**
+
 
 : [Pretrained Language Models (part 2) + Ethics](https://cocoxu.github.io/CS7650_fall2025/slides/lec14-pt2.pdf)
   : [J+M 10](https://web.stanford.edu/~jurafsky/slp3/10.pdf), [BART](https://arxiv.org/pdf/1910.13461.pdf), [GPT-3](https://arxiv.org/pdf/2005.14165.pdf) 
 
-: [Post-training of Language Models (part 3)](https://cocoxu.github.io/CS7650_fall2025/slides/lec15-pt3.pdf)
+: [Post-training of Language Models (part 3)](https://cocoxu.github.io/CS7650_fall2025/slides/lec15-pt3.pdf), [Midterm Review](https://cocoxu.github.io/CS7650_fall2025/slides/lec00-midterm-review.pdf)
   : [InstructGPT](https://arxiv.org/pdf/2203.02155.pdf) 
 
 : [Open-source Language Models (part 4)](https://cocoxu.github.io/CS7650_fall2025/slides/lec16-pt4.pdf)
