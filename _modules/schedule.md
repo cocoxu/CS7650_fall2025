@@ -79,7 +79,10 @@ Oct 8
 Oct 10
 : **[Course Project Proposal Due](https://cocoxu.github.io/CS7650_fall2025/slides/lec0-project.pdf)**
 
-Oct 15
+Oct 21
+: **[Slides for In-class Presentation due](https://www.gradescope.com/courses/1086056)**
+
+Oct 24
 : **[Problem Set 2 due](https://www.gradescope.com/courses/1086056)**
 
 
