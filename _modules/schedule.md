@@ -73,11 +73,15 @@ Oct 3
 : **[Project 2 due](https://colab.research.google.com/drive/1jjdjCKZBglPHeO_FsJ-rjryEcRTzwuS3?usp=sharing)**
 
 Oct 8
-: [Pretrained Language Models (part 1)](https://cocoxu.github.io/CS7650_fall2025/slides/lec13-pt1.pdf)
-  : [J+M 10](https://web.stanford.edu/~jurafsky/slp3/10.pdf), [ELMo](https://www.aclweb.org/anthology/N18-1202.pdf) [BERT](https://www.aclweb.org/anthology/N19-1423.pdf)
+: [Pretrained Language Models - part 1 (ELMo, BERT & variants, BART/T5)](https://cocoxu.github.io/CS7650_fall2025/slides/lec13-pt1.pdf)
+  : [J+M 10](https://web.stanford.edu/~jurafsky/slp3/10.pdf), [ELMo](https://www.aclweb.org/anthology/N18-1202.pdf) [BERT](https://www.aclweb.org/anthology/N19-1423.pdf), [BART](https://arxiv.org/pdf/1910.13461.pdf)
 
 Oct 10
 : **[Course Project Proposal Due](https://cocoxu.github.io/CS7650_fall2025/slides/lec0-project.pdf)**
+
+Oct 13
+: [Pretrained Language Models - part 2 (GPT2/3, knowledge distillation, instruction tuning)](https://cocoxu.github.io/CS7650_fall2025/slides/lec14-pt2.pdf)
+  : [J+M 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf), [Hinton+15 Knowledge Distillation](https://arxiv.org/pdf/1503.02531), [GPT-3](https://arxiv.org/pdf/2005.14165.pdf)
 
 Oct 21
 : **[Slides for In-class Presentation due](https://www.gradescope.com/courses/1086056)**
@@ -85,16 +89,17 @@ Oct 21
 Oct 24
 : **[Problem Set 2 due](https://www.gradescope.com/courses/1086056)**
 
+Nov 5
+: **In-class Midterm (close book, close note)**
 
-: [Pretrained Language Models (part 2) + Ethics](https://cocoxu.github.io/CS7650_fall2025/slides/lec14-pt2.pdf)
-  : [J+M 10](https://web.stanford.edu/~jurafsky/slp3/10.pdf), [BART](https://arxiv.org/pdf/1910.13461.pdf), [GPT-3](https://arxiv.org/pdf/2005.14165.pdf) 
 
-: [Post-training of Language Models (part 3)](https://cocoxu.github.io/CS7650_fall2025/slides/lec15-pt3.pdf), [Midterm Review](https://cocoxu.github.io/CS7650_fall2025/slides/lec00-midterm-review.pdf)
+
+Preview
+: [Post-training of Language Models (part 3)](https://cocoxu.github.io/CS7650_fall2025/slides/lec15-pt3.pdf)
   : [InstructGPT](https://arxiv.org/pdf/2203.02155.pdf) 
 
+Preview
 : [Open-source Language Models (part 4)](https://cocoxu.github.io/CS7650_fall2025/slides/lec16-pt4.pdf)
   : [Llama 3](https://arxiv.org/pdf/2407.21783.pdf) 
   
-
-: **In-class Midterm (close book, close note)**
 
