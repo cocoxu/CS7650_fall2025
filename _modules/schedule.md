@@ -87,6 +87,10 @@ Oct 15
 : [Post-training of Language Models - part 3 (InstructGPT, PPO, decoding)](https://cocoxu.github.io/CS7650_fall2025/slides/lec14-pt3.pdf), [Midterm Review](https://cocoxu.github.io/CS7650_fall2025/slides/lec00-midterm-review.pdf)
   : [InstructGPT](https://arxiv.org/pdf/2203.02155.pdf) 
 
+Oct 20
+: [Open-source Language Models (part 4)](https://cocoxu.github.io/CS7650_fall2025/slides/lec15-pt4.pdf)
+  : [Llama 3](https://arxiv.org/pdf/2407.21783.pdf) 
+
 Oct 21
 : **[Slides for In-class Presentation due](https://www.gradescope.com/courses/1086056)**
 
@@ -98,8 +102,5 @@ Nov 5
 
 
 
-Preview
-: [Open-source Language Models (part 4)](https://cocoxu.github.io/CS7650_fall2025/slides/lec16-pt4.pdf)
-  : [Llama 3](https://arxiv.org/pdf/2407.21783.pdf) 
-  
+
 
