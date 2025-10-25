@@ -89,11 +89,15 @@ Oct 15
 
 Oct 20
 : [Open-source Language Models (part 4)](https://cocoxu.github.io/CS7650_fall2025/slides/lec15-pt4.pdf)
-  : [Llama 3](https://arxiv.org/pdf/2407.21783.pdf) 
-
+  : [Llama 3](https://arxiv.org/pdf/2407.21783.pdf)  
+  
 Oct 21
 : **[Slides for In-class Presentation due](https://www.gradescope.com/courses/1086056)**
 
+Oct 22
+: [Open-source Language Models (part 5)](https://cocoxu.github.io/CS7650_fall2025/slides/lec16-pt5-tokenization.pdf)
+  : [BPE](https://arxiv.org/pdf/1508.07909.pdf)
+  
 Oct 24
 : **[Problem Set 2 due](https://www.gradescope.com/courses/1086056)**
 
